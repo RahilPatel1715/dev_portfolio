@@ -204,7 +204,7 @@ export const workExperience = [
         thumbnail: "/exp4.svg",
     },
     {
-        id: 4,
+        id: 5,
         title: "Front-end Developer - Zonic Digital Inc.",
         desc: "Developed intuitive page layouts and navigation tools that exceeded user expectations. Conducted thorough reviews and testing of customer-facing prototypes, ensuring optimal usability. Investigated and resolved application issues, provided comprehensive end-user support, and employed debugging techniques to ensure cross-device and cross-browser compatibility. Maintained high quality assurance standards through rigorous testing.",
         className: "md:col-span-2",
